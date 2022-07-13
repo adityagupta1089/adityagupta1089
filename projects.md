@@ -5,6 +5,9 @@
 - Cache Coherency Simulator
 - Assembly Language Functional and Pipeline Simulator
 
+## Compilers
+- Working on a compiler for a subset of C using LLVM.
+
 ## Artificial Intelligence and Machine Learning:
 - Automatic CAPTCHA Generation using Adversarial Networks
 - Predicting "Clash Royale"'s winner
